@@ -1,0 +1,30 @@
+*{font-family: 'Poppins', sans-serif;}
+
+#main{
+  background-color: #EFEFEF;
+}
+
+#title {
+  color: black;
+  text-align: center;
+}
+
+#img-div{
+  text-align: center;
+  background-color: #FFFFFF;
+  padding: 30px;
+}
+
+#image{
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+#tribute-info{
+  text-align: center;
+  font-size: 25px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding: 40px;
+}
